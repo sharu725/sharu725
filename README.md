@@ -4,3 +4,4 @@
 
 
 [![twitter follow](https://img.shields.io/badge/twitter-follow-blue?logo=twitter&style=for-the-badge)](https://twitter.com/webjeda)
+[![webjeda web dev tutorials](https://img.shields.io/badge/visit-webejda.com-blue?logo=svelte&style=for-the-badge)](https://webjeda.com)
