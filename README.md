@@ -2,8 +2,7 @@
 
 ### My name is Sharath. I'm a web-developer
 
-![Sharath's github stats](https://github-readme-stats.vercel.app/api?username=sharu725&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=00aa55)
-
+<!-- ![Sharath's github stats](https://github-readme-stats.vercel.app/api?username=sharu725&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=00aa55) -->
 
 [![twitter follow](https://img.shields.io/badge/twitter-follow-blue?logo=twitter&style=for-the-badge)](https://twitter.com/webjeda)
 [![webjeda web dev tutorials](https://img.shields.io/badge/visit-webejda.com-blue?logo=svelte&style=for-the-badge)](https://webjeda.com)
